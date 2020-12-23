@@ -1,0 +1,2 @@
+linked list ADT
+Lets start code.
